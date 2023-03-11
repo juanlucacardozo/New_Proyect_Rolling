@@ -1,5 +1,6 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -53,11 +54,11 @@ nav a {
 section {
   margin: 20px 0;
 }
-main {
+.shppingCartOrder {
   display: flex;
   justify-content: space-around;
 }
-.shppingCartOrder {
+main {
   display: flex;
   justify-content: space-around;
 }
