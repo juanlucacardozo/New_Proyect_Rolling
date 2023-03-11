@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#button {
+  margin: 2px;
+}
+#button:hover {
+  color: aqua;
+}
+.Carrito {
+  color: black;
+  background: transparent;
+  border: 2px solid #0099cc;
+  border-radius: 6px;
+  margin: 3px;
+  padding: 5px;
+}
+.Carrito:hover {
+  background-color: #008cba;
+  color: white;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4caf50;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  margin: 20px 0;
+}
+main {
+  display: flex;
+  justify-content: space-around;
+}
+.shppingCartOrder {
+  display: flex;
+  justify-content: space-around;
+}
